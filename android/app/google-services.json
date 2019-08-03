@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "80285202949",
+    "firebase_url": "https://flutterapps-f8045.firebaseio.com",
+    "project_id": "flutterapps-f8045",
+    "storage_bucket": "flutterapps-f8045.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80285202949:android:d6923e58818d6938",
+        "android_client_info": {
+          "package_name": "com.madhav.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80285202949-qm0pup9khl0hn8lsuu29df77mlf809lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCopxQPXS0krf5e9WtFRxM1SgbkQBhDdeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80285202949-qm0pup9khl0hn8lsuu29df77mlf809lb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "80285202949-9vp5tb2sssb83tig7es3j36iilloodj2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.madhav.firebasedemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
