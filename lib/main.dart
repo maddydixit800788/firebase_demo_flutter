@@ -16,6 +16,7 @@ class MyApp extends StatelessWidget {
         title: 'Firebase Demo',
         subtitle: "Test Describtion",
       ),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
